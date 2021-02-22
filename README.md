@@ -1,6 +1,6 @@
 # sd-activate-plugin
 
-Small plugin for activating plugins on your WordPress website.
+Small plugin for activating a plugin on your WordPress website.
 
 ## Usage
 
